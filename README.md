@@ -1,2 +1,6 @@
 # hello-world
-A repo for testing puposes
+
+Hi,
+ich mache meine ersten Schritte auf GitHub. Es scheint sehr nützlich zu sein!
+
+Ich grüße meine Eltern!
